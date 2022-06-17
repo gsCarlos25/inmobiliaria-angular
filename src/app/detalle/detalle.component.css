@@ -1,0 +1,56 @@
+  .loading{
+    position:absolute;
+    margin-left:41rem;
+    margin-top:11rem;
+  
+  }
+  .titulo{
+    margin-left:1vw;
+  }
+  .componente{
+    display: flex;
+    margin:2rem;
+  }
+  
+  .img{
+    width:14vw;
+    height:25vh;
+    border-radius:1rem;
+    margin-right:1rem;
+  }
+  
+  .info{
+    padding:1rem;
+  }
+  
+  .description{
+    margin-bottom: -1vh;
+    margin-left:-2vw;
+  }
+  
+  .location{
+    color:gray;
+    margin-bottom: -3vh;
+  }
+  
+  .precio{
+    color:rgb(71, 207, 71);
+  }
+  
+  .rooms{
+    display:flex;
+    justify-content:space-between;
+  }
+  
+  .icono1{
+   padding-right: 1rem;
+  }
+  
+  .icono2{
+   padding-left: 1rem;
+  }
+  
+  #link{
+    text-decoration: none;
+    color: black;
+  }
